@@ -1,8 +1,8 @@
 # The Funniest Honest Appliance Error
 
-[![make.fun](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450)
-[![Rank](https://make.fun/badge/rank/u-xvader-the-funniest-honest-appliance-error-adec4450.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450)
-[![Reward](https://make.fun/badge/reward/u-xvader-the-funniest-honest-appliance-error-adec4450.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450)
+[![make.fun](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-the-funniest-honest-appliance-error-adec4450)
+[![Rank](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/laithzz21/u-xvader-the-funniest-honest-appliance-error-adec4450/rank.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-the-funniest-honest-appliance-error-adec4450)
+[![Reward](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/laithzz21/u-xvader-the-funniest-honest-appliance-error-adec4450/reward.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-the-funniest-honest-appliance-error-adec4450)
 
 Entry for the [make.fun bounty](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450): write the funniest honest error message an appliance could show — a washing machine, fridge, toaster, or boiler — in a single line of at most 200 characters. The laugh must come from the truth of the fault, not a bolted-on pun. Winner takes all, $2.
 
